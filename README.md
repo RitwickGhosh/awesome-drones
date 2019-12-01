@@ -17,6 +17,7 @@ Looking to [contribute](contributing.md)?
 ## Builds and Hardware
 
 ## First Person View-FPV
+
 ### Commercial FPVs
 ### DIY FPVs
 
@@ -25,6 +26,9 @@ Looking to [contribute](contributing.md)?
 
 ## Unmanned-Aerial-Vehicle-UAV
 ## Tools
+
+* [Drone code](https://www.dronecode.org/) Open source UAV platform
+* [DRONEKIT](http://dronekit.io/) Developer tools for drones
 ### Simulator
 - [Mircosot AirSim](https://github.com/microsoft/AirSim)
 
